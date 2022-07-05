@@ -1,0 +1,15 @@
+C:\ProjetosC#\Exercicio3-udemy\bin\Debug\net6.0\Exercicio3-udemy.exe
+C:\ProjetosC#\Exercicio3-udemy\bin\Debug\net6.0\Exercicio3-udemy.deps.json
+C:\ProjetosC#\Exercicio3-udemy\bin\Debug\net6.0\Exercicio3-udemy.runtimeconfig.json
+C:\ProjetosC#\Exercicio3-udemy\bin\Debug\net6.0\Exercicio3-udemy.dll
+C:\ProjetosC#\Exercicio3-udemy\bin\Debug\net6.0\Exercicio3-udemy.pdb
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.csproj.AssemblyReference.cache
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.AssemblyInfoInputs.cache
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.AssemblyInfo.cs
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.dll
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\refint\Exercicio3-udemy.dll
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.pdb
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\Exercicio3-udemy.genruntimeconfig.cache
+C:\ProjetosC#\Exercicio3-udemy\obj\Debug\net6.0\ref\Exercicio3-udemy.dll
